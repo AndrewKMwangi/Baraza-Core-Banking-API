@@ -1,0 +1,15 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+
+# Python / Azure Functions
+.venv/
+__pycache__/
+*.pyc
+local.settings.json
+
+# IDE
+.vscode/
+.idea/
